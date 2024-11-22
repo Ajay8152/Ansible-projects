@@ -1,0 +1,4 @@
+Verify the Deployment
+Open the browser and enter the IP address of any EC2 instance.
+Example: http://<target_server_ip>.
+You should see the HTML page with the message "Welcome to Ansible automated server".
