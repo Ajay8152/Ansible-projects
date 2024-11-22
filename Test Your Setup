@@ -1,0 +1,6 @@
+Run the ping module to test connectivity.
+ansible -i inventory webservers -m ping
+
+Run the Playbook:
+Execute the playbook to set up the web servers.
+ansible-playbook -i inventory playbook.yml
